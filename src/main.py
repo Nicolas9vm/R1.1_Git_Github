@@ -1,2 +1,2 @@
 # Programa principal
-MENSAJE = "Hola mundo"
+MENSAJE = "Hola desde Luis"
