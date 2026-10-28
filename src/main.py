@@ -1,2 +1,5 @@
 # Programa principal
-MENSAJE = "Hola mundo"
+MENSAJE = "Hola desde Ana"
+
+def saludar(): 
+    print(MENSAJE)
